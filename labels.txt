@@ -1,2 +1,0 @@
-0 grape
-1 apple
